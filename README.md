@@ -1,6 +1,7 @@
 # Network-Task--1-
 1. Get the IP address of guvi.in
-    - Command: nslookup guvi.in
+    - Command:
+       - nslookup guvi.in
 2.  Check CPU & Memory Usage of Your Server
     - Commands:
        - top      # Live system monitoring
