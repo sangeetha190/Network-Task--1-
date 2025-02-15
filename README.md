@@ -19,4 +19,21 @@
        ![image](https://github.com/user-attachments/assets/453dcd39-1632-4897-925a-4327e1d6445d)
 
 
+#Task 2 (After So many try the report)
+1.Task Report: Port 9000 Check on guvi.com
+
+  - Checked if port 9000 is open using Netcat:
+      - Command: nc -zv guvi.com 9000
+      - Result: Connection timed out.
+
+  - Verified server reachability with Ping:
+      - Command: ping -c 4 guvi.com
+      - Result: The server is reachable, meaning the domain resolves correctly.
+
+  - Attempted to connect using Telnet (if applicable):
+      - Command: telnet guvi.com 9000
+      - Result: (Mention the result, if you tested this.)
+      ![image](https://github.com/user-attachments/assets/17768e13-1760-46bb-9605-565d195acae0)
+
+
 
