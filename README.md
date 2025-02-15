@@ -2,12 +2,21 @@
 1. Get the IP address of guvi.in
     - Command:
        - nslookup guvi.in
+         ![image](https://github.com/user-attachments/assets/8c88849e-3466-49a1-95e9-319d05258265)
+
 2.  Check CPU & Memory Usage of Your Server
     - Commands:
        - top      # Live system monitoring
        - free -m  # Check available memory
-       - htop     # (If installed) Interactive system monitoring
+       ![image](https://github.com/user-attachments/assets/4c88125e-5896-48f3-9c38-77f18fe30253)
+       ![image](https://github.com/user-attachments/assets/133cc03f-e3b1-4d2a-a01d-60270b3c067e)
+
 3. Test Connectivity Between Two Nodes (Machines)
     - Commands:
        - ping guvi.in      # Check if the domain is reachable  
        - traceroute guvi.in  # (Optional) Show network path to guvi.in  
+       ![image](https://github.com/user-attachments/assets/363f4124-7eef-415c-b9df-5873d7ff1212)
+       ![image](https://github.com/user-attachments/assets/453dcd39-1632-4897-925a-4327e1d6445d)
+
+
+
